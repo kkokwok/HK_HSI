@@ -29,7 +29,7 @@ Zooming & Panning: Click and drag across any chart panel to zoom in. Double-clic
 
 **中文：使用說明
 歡迎使用恆生指數 (^HSI) 技術分析儀表板。本介面旨在協助交易者與投資人透過平滑的 Heikin-Ashi（平均線）圖表與傳統價格行為，分析市場趨勢、動能及潛在的反轉點。
-** 
+** (H1)
 
 如何操作本介面
 
