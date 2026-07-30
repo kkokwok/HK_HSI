@@ -1,4 +1,5 @@
-**English: User Guide
+**English: User Guide**
+
 Welcome to the Hang Seng Index (^HSI) Technical Analysis Dashboard [https://kkokwok.shinyapps.io/hk_hsi/]. 
 This interface is designed to help traders and investors analyze market trends, momentum, and potential reversal points using both smoothed Heikin-Ashi candles and traditional price action.**
 
@@ -26,7 +27,8 @@ d) Panels 3, 4, & 5 (Sub-Indicators): Track momentum and overbought/oversold con
 
 Zooming & Panning: Click and drag across any chart panel to zoom in. Double-click anywhere on a panel to reset the view. Each panel's Y-axis scales independently.
 
-中文：使用說明
+**中文：使用說明**
+
 歡迎使用恆生指數 (^HSI) 技術分析儀表板 [https://kkokwok.shinyapps.io/hk_hsi/]。本介面旨在協助交易者與投資人透過平滑的 Heikin-Ashi（平均線）圖表與傳統價格行為，分析市場趨勢、動能及潛在的反轉點。
 
 
