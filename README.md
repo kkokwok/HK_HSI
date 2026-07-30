@@ -1,5 +1,5 @@
 **English: User Guide
-Welcome to the Hang Seng Index (^HSI) Technical Analysis Dashboard [https://github.com/kkokwok/HK_HSI](https://kkokwok.shinyapps.io/hk_hsi/]. 
+Welcome to the Hang Seng Index (^HSI) Technical Analysis Dashboard [https://kkokwok.shinyapps.io/hk_hsi/]. 
 This interface is designed to help traders and investors analyze market trends, momentum, and potential reversal points using both smoothed Heikin-Ashi candles and traditional price action.**
 
 HOW TO USE THE INTERFACE 
