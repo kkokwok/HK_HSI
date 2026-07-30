@@ -2,8 +2,10 @@
 Welcome to the Hang Seng Index (^HSI) Technical Analysis Dashboard. This interface is designed to help traders and investors analyze market trends, momentum, and potential reversal points using both smoothed Heikin-Ashi candles and traditional price action.**
 
 HOW TO USE THE INTERFACE 
+
 **1. Sidebar Controls (Left Panel):
 **
+
 Data History Period: Choose how far back historical data is retrieved (from 1 Year up to 10 Years).
 
 Select Timeframe: Switch between Daily, Weekly, and Monthly chart aggregations to inspect short-term momentum or macro trends.
@@ -14,6 +16,7 @@ Auto Refresh Rate: Set the timer (in seconds) to automatically fetch live update
 
 **2. Main Interactive Chart (Right Panel):
 **
+
 Top Navigation Bar (Time Selector): Use the built-in buttons (1m, 3m, 6m, 1y, 3y, 5y, 10y, All) to instantly zoom into specific time ranges. The final candle will automatically maintain breathing room from the right edge.
 
 Panel 1 (Heikin-Ashi + Signals): Displays trend-filtered Heikin-Ashi candlesticks layered with multiple Moving Averages (HA SMA 5 to 250) and automated peak/bottom warning alerts.
@@ -27,10 +30,13 @@ Zooming & Panning: Click and drag across any chart panel to zoom in. Double-clic
 **中文：使用說明
 歡迎使用恆生指數 (^HSI) 技術分析儀表板。本介面旨在協助交易者與投資人透過平滑的 Heikin-Ashi（平均線）圖表與傳統價格行為，分析市場趨勢、動能及潛在的反轉點。
 ** 
+
 **如何操作本介面
 **
+
 **1. 側邊控制面板（左側）：
 **
+
 數據歷史週期：選擇歷史數據的回溯時間長度（從 1 年到 10 年）。
 
 選擇時間框架：切換日線（Daily）、週線（Weekly）或月線（Monthly），以觀察短線動能或宏觀趨勢。
@@ -41,6 +47,7 @@ Zooming & Panning: Click and drag across any chart panel to zoom in. Double-clic
 
 **2. 主互動圖表（右側）：
 **
+
 頂部時間導覽列：使用內建按鈕（1m, 3m, 6m, 1y, 3y, 5y, 10y, All）即時縮放至特定時間範圍。圖表右側會自動保留適當留白，避免最新K線緊貼邊緣。
 
 面板 1（Heikin-Ashi + 訊號）：展示經趨勢過濾的 Heikin-Ashi K線，疊加多條移動平均線（HA SMA 5 至 250）以及自動化的頂底部警示標記。
