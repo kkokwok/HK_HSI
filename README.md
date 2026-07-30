@@ -12,6 +12,8 @@ Panel 1 (Heikin-Ashi + Signals): Displays trend-filtered Heikin-Ashi candlestick
 Panel 2 (Normal Candlestick): Displays standard raw open-high-low-close (OHLC) candlestick bars with corresponding traditional Moving Averages.
 Panels 3, 4, & 5 (Sub-Indicators): Track momentum and overbought/oversold conditions using MACD, RSI(14) (with 70/30 dashed threshold lines), and the KDJ Oscillator (K, D, J lines).
 Zooming & Panning: Click and drag across any chart panel to zoom in. Double-click anywhere on a panel to reset the view. Each panel's Y-axis scales independently.
+
+
 🇭🇰 中文：使用說明
 歡迎使用恆生指數 (^HSI) 技術分析儀表板。本介面旨在協助交易者與投資人透過平滑的 Heikin-Ashi（平均線）圖表與傳統價格行為，分析市場趨勢、動能及潛在的反轉點。
 如何操作本介面
